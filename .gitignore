@@ -22,3 +22,15 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+.env
+
+
+# --------- Explicitly installed packages/modules for this project ---------
+# npm create vite@latest
+# npm install -D tailwindcss postcss autoprefixer
+# npx tailwindcss init -p
+# npm i react-router-dom
+# npm i express
+# npm i nodemon
+# npm i mongoose
+# npm i dotenv
