@@ -26,10 +26,18 @@ dist-ssr
 
 
 # --------- Explicitly installed packages/modules for this project ---------
+
+# => For Front-end
+
 # npm create vite@latest
 # npm install -D tailwindcss postcss autoprefixer
 # npx tailwindcss init -p
 # npm i react-router-dom
+# npm i @reduxjs/toolkit react-redux
+# npm i redux-persist
+
+# => For Back-end
+
 # npm i express
 # npm i nodemon
 # npm i mongoose
