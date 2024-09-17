@@ -46,3 +46,4 @@ dist-ssr
 # npm i bcryptjs
 # npm i jsonwebtoken
 # npm i cors (cors means cross origin resource sharing)
+# npm i cookie-parser
